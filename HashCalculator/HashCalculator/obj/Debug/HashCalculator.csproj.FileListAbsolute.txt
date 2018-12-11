@@ -1,0 +1,44 @@
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\bin\Debug\HashCalculator.pdb
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csprojAssemblyReference.cache
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\App.g.cs
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator_MarkupCompile.cache
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator_MarkupCompile.lref
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\MainWindow.baml
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.g.resources
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.Properties.Resources.resources
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.GenerateResource.cache
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.exe
+C:\Users\Softparc_10\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.pdb
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\bin\Debug\HashCalculator.pdb
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator_MarkupCompile.cache
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator_MarkupCompile.lref
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.g.resources
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.Properties.Resources.resources
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.exe
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\obj\Debug\HashCalculator.pdb
+C:\Users\Marius\Desktop\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe.config
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe.config
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\bin\Debug\HashCalculator.pdb
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csprojAssemblyReference.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\MainWindow.g.cs
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\App.g.cs
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator_MarkupCompile.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator_MarkupCompile.lref
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\MainWindow.baml
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator.g.resources
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator.Properties.Resources.resources
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.GenerateResource.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.CoreCompileInputs.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\HashCalculator\Hash-Calculator\HashCalculator\HashCalculator\obj\Debug\HashCalculator.pdb
